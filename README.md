@@ -1,4 +1,4 @@
-# real-estate-management
+# Angular12 Google Map Detector
 
 A online property management solution for real estate and
 physical property management. This can include residential,
